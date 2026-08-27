@@ -3,3 +3,7 @@ build/
 *.iml
 .DS_Store
 local.properties
+.idea/
+*.apk
+*.exe
+*.msi

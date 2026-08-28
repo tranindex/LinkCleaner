@@ -27,7 +27,7 @@ LinkCleaner 是一款专为安卓打造的轻量工具，旨在帮助用户**快
 
 | 链接修复 | 链接防屏蔽 |
 | -------- | ---------- |
-| *[在此插入截图]* | *[在此插入截图]* |
+| ![image-20260829012131101](D:\githubproject\LinkCleaner\readme.assets\image-20260829012131101.png) | ![image-20260829012140948](D:\githubproject\LinkCleaner\readme.assets\image-20260829012140948.png) |
 
 ## 🛠 技术栈
 
